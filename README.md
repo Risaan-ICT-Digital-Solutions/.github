@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/risaan-logo.png" alt="Risaan ICT & Digital Solutions logo" width="135">
+  <img src="RISAAN_new_logo_transparent_HD.png" alt="Risaan ICT & Digital Solutions logo" width="135">
 </p>
 
 <h1 align="center">Risaan ICT & Digital Solutions</h1>
